@@ -1,26 +1,18 @@
 Names of VueJS Fellowship Members 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Attendance for 12th March, 2019
+1.
+2.
+3.
+4.
+5.
+6.
+7.
 
 
 
 Repo for today's class: https://github.com/starthubtech/routing-router_view-and-router_links/tree/design
 
 
-Task 1: Create a blog with a side bar. And like the pages the pages with proper routing.
+Task 1: Create a blog with a side bar. And link the pages with proper routing.
 
 CSS should be properly considered.
